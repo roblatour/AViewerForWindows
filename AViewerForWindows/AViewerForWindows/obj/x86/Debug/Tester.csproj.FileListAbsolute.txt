@@ -1,0 +1,24 @@
+C:\Projects_CSharp\SkewCorrection\Tester\bin\Debug\Tester.exe.config
+C:\Projects_CSharp\SkewCorrection\Tester\bin\Debug\Tester.exe
+C:\Projects_CSharp\SkewCorrection\Tester\bin\Debug\Tester.pdb
+C:\Projects_CSharp\SkewCorrection\Tester\bin\Debug\SkewCorrection.dll
+C:\Projects_CSharp\SkewCorrection\Tester\bin\Debug\SkewCorrection.pdb
+C:\Projects_CSharp\SkewCorrection\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Projects_CSharp\SkewCorrection\Tester\obj\x86\Debug\Tester.MainForm.resources
+C:\Projects_CSharp\SkewCorrection\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Projects_CSharp\SkewCorrection\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.Cache
+C:\Projects_CSharp\SkewCorrection\Tester\obj\x86\Debug\Tester.exe
+C:\Projects_CSharp\SkewCorrection\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\bin\Debug\Tester.exe.config
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\bin\Debug\Tester.exe
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\bin\Debug\Tester.pdb
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\bin\Debug\SkewCorrection.dll
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\bin\Debug\SkewCorrection.pdb
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\obj\x86\Debug\Tester.csproj.AssemblyReference.cache
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\obj\x86\Debug\Tester.MainForm.resources
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.cache
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\obj\x86\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\obj\x86\Debug\Tester.csproj.CopyComplete
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\obj\x86\Debug\Tester.exe
+C:\Users\Rob Latour\Desktop\New folder\SkewCorrection\SkewCorrection\Tester\obj\x86\Debug\Tester.pdb

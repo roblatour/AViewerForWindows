@@ -1,0 +1,17 @@
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\bin\Debug\AViewerForWindows.exe.config
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\bin\Debug\AViewerForWindows.exe
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\bin\Debug\AViewerForWindows.pdb
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\AViewerForWindows.vbproj.AssemblyReference.cache
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\AViewerForWindows.vbproj.SuggestedBindingRedirects.cache
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\frmViewer.resources
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\frmHyperlinkWarning.resources
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\frmEffectsDesign.resources
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\frmRenamePrompt.resources
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\frmOpening.resources
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\Resources.resources
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\AViewerForWindows.vbproj.GenerateResource.cache
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\AViewerForWindows.vbproj.CoreCompileInputs.cache
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\AViewerForWindows.exe
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\AViewerForWindows.pdb
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\ucSlider.resources
+E:\Documents\VBNet\AViewerForWindows\AViewerForWindows\AViewerForWindows\obj\x86\Debug\ucEnhancedTreeView.resources

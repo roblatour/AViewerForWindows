@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f10a5d1e-8d86-0614-1d9b-55225d1ed036": {
+      "ProjectGuid": "f10a5d1e-8d86-0614-1d9b-55225d1ed036",
+      "DisplayName": "SkewFix",
+      "ColorIndex": 0
+    },
+    "266cb9ee-47a8-0488-02e5-5f0bac732e03": {
+      "ProjectGuid": "266cb9ee-47a8-0488-02e5-5f0bac732e03",
+      "DisplayName": "SkewCorrection",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

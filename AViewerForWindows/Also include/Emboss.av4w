@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EffectsProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Defaults\Emboss</Name>
+  <Enabled>true</Enabled>
+  <MatrixType>Effect</MatrixType>
+  <MatrixSize>3</MatrixSize>
+  <Sigma>1</Sigma>
+  <Amount>0</Amount>
+  <Bias>0</Bias>
+  <Factor>1</Factor>
+  <Compute>false</Compute>
+  <Symmetric>false</Symmetric>
+  <Matrix>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 -1 0 0 0 0 0 -1 1 1 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</Matrix>
+  <ModifyAlpha>0</ModifyAlpha>
+  <ModifyRed>0</ModifyRed>
+  <ModifyGreen>0</ModifyGreen>
+  <ModifyBlue>0</ModifyBlue>
+  <TransparencyEnabled>false</TransparencyEnabled>
+  <TransparencyRed>0</TransparencyRed>
+  <TransparencyGreen>0</TransparencyGreen>
+  <TransparencyBlue>0</TransparencyBlue>
+  <TransparencyTolerance>0</TransparencyTolerance>
+  <Notes>reference: 
+https://docs.gimp.org/2.8/en/plug-in-convmatrix.html</Notes>
+</EffectsProfile>
