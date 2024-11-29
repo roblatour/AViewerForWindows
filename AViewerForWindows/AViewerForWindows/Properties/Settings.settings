@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PinnedToTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultOpenDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">not yet set</Value>
+    </Setting>
+    <Setting Name="DefaultSaveDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">not yet set</Value>
+    </Setting>
+    <Setting Name="ShowingSplitContainerText" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CurrentVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">not yet set</Value>
+    </Setting>
+    <Setting Name="ViewChoice" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CheckForUpdates" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="NextVersionCheckDate" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SkipUpdateFor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">not set</Value>
+    </Setting>
+    <Setting Name="EffectsProfileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Defaults\Neutral</Value>
+    </Setting>
+    <Setting Name="ShowHyperlinkWarning" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
