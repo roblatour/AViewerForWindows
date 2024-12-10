@@ -26,7 +26,7 @@ You're welcome to use A Viewer for Windows for free on as many computers as you 
 
 ## Download 
 
-To download a signed copy of A Viewer for Windows installer, please click [here](https://github.com/roblatour/AViewerForWindows/releases/download/v2.1.0.0/AViewerForWindowsSetup.exe)
+To download the signed Windows installer program for A Viewer for Windows, please click [here](https://github.com/roblatour/AViewerForWindows/releases/download/v2.1.0.0/AViewerForWindowsSetup.exe)
 
 ## Support
 
